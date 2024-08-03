@@ -1,3 +1,17 @@
+Job DashBoard
+
+
+1 - homepage
+2 - authentication
+3 - creating companies
+4 - job form
+6 - saving job to our mongo db
+8 - single job page
+9 - outro
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
