@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Hero(){
+export default async function Hero(){
     return(
         <section className="container py-12">
             <h2 className="text-4xl bold text-center">
