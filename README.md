@@ -2,9 +2,9 @@ Job DashBoard
 
 
 1 - homepage
-2 - authentication
-3 - creating companies
-4 - job form
+2 - authentication - workOS
+3 - creating companies 
+4 - job form -radix-ui
 6 - saving job to our mongo db
 8 - single job page
 9 - outro
